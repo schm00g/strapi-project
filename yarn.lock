@@ -9334,6 +9334,11 @@ std-env@^2.2.1:
   dependencies:
     ci-info "^3.1.1"
 
+strapi-plugin-notes@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/strapi-plugin-notes/-/strapi-plugin-notes-1.0.1.tgz#5968ce206e1c95936a5fe75fd2612bdc8ec3ae52"
+  integrity sha512-0DwuEdLrETNTyI5LKSZ6xWt2U2P3DpplM2bl7ZyEptbccKAUeWrXxxTtHWMjlCWzQie04BiWrNogIIpgAXpHGw==
+
 stream-browserify@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/stream-browserify/-/stream-browserify-3.0.0.tgz#22b0a2850cdf6503e73085da1fc7b7d0c2122f2f"
